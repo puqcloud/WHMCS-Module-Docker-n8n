@@ -9,7 +9,7 @@ The module uses ionCube encoding. Your server must meet the following requiremen
 
 | Requirement | Minimum                 |
 |-------------|-------------------------|
-| PHP | 8.2        |
+| PHP | 8.1 or 8.2              |
 | WHMCS | 9+ or higher            |
 | ionCube Loader | v13 or newer (v14, v15) |
 

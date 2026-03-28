@@ -67,13 +67,13 @@ The **WHMCS Docker n8n module** is designed for automated provisioning and manag
 
 ## System requirements
 
-| Requirement | Minimum |
-|-------------|---------|
-| WHMCS | 8.11.0 or higher |
-| PHP | 7.4, 8.1, or 8.2 |
-| ionCube Loader | v13 or newer (v14, v15) |
+| Requirement | Minimum                    |
+|-------------|----------------------------|
+| WHMCS | 9+                     |
+| PHP | 8.1, or 8.2                |
+| ionCube Loader | v13 or newer (v14, v15)    |
 | Docker server | Debian 12 with Docker installed |
-| n8n server | For workflow automation |
+| n8n server | For workflow automation    |
 
 ---
 
